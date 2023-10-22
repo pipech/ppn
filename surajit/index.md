@@ -353,7 +353,7 @@ https://docs.google.com/document/d/1zNZpXaMP58cbgJmejW1YNcxv6Sxx7GdB9u25PSOKY2c/
 
 ![วิธีตรวจเช็ค อ้างอิงจากเว็บไซต์ crast](./src/03/04/crast.png)
 
-- https://crast.net/106502/check-how-many-hours-of-use-your-panasonic-smart-tv-has-with-this-simple-trick/
+- [https://crast.net/106502/check-how-many-hours-of-use-your-panasonic-smart-tv-has-with-this-simple-trick/](https://crast.net/106502/check-how-many-hours-of-use-your-panasonic-smart-tv-has-with-this-simple-trick/)
 
 ##### การตรวจเช็ค
 
