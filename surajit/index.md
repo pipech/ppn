@@ -371,6 +371,8 @@ https://docs.google.com/document/d/1zNZpXaMP58cbgJmejW1YNcxv6Sxx7GdB9u25PSOKY2c/
 | เปิดทีวี         | 22/10/2023 | ~11:27 |
 | C01737-0000256   |            | 11:36  |
 
+[ภาพประกอบถ่าย เวลาเปิดทีวี](https://photos.app.goo.gl/SqVTFMsXCNoJ6BnE6)
+
 ### [4] บันทึกเวลา
 
 เวลาที่ใช้ทั้งหมด ในการรวบรวมเอกสารจะจัดทำเรื่อง
